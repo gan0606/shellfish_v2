@@ -1,0 +1,14 @@
+names:
+- Crab
+- Lobster
+- Shrimp
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: shellfish-openimage
+  url: https://universe.roboflow.com/jacob-solawetz/shellfish-openimages/dataset/1
+  version: 1
+  workspace: jacob-solawetz
+test: C:/Users/yuuki/Kaggle/object_detection_try/shellfish_v2/after_data/test/images
+train: C:/Users/yuuki/Kaggle/object_detection_try/shellfish_v2/after_data/train/images
+val: C:/Users/yuuki/Kaggle/object_detection_try/shellfish_v2/after_data/valid/images
