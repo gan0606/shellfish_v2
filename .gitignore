@@ -5,6 +5,7 @@
 *.png
 *.pt
 *.onnx
+*.mp4
 
 
 !labels_correlogram.jpg
